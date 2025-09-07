@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi I'm Aniket Prabhakar Babar, working as a Design Engineer @Cyient at Mumbai, Maharashtra and currently pursuing Mtech @BITS Pillani under AI & ML Domain.
 
-<!--
-**aniketpbabar/aniketpbabar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Overall having 2+ years of experience in helping clients with their business requirements delivery through data acquisition, analysis, and driving insights, KPI reporting and driving business to a higher level.
 
-Here are some ideas to get you started:
+Having good knowledge of Python, SQL, SNOWFLAKE, Matillion, Tableau & POWERBI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Having an understanding of statistical, algebraic, and other analytical techniques coupled with various programming languages and am highly motivated to learn, grow and excel in the Data Science Industry.
+
+Solid understanding of exploratory data analysis using SQL & Python language
+
+Experience working in an Agile Environment.
+
+Strong Communication, Presentation, and Interpersonal skills with excellent problem-solving capabilities.
