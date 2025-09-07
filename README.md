@@ -1,4 +1,4 @@
-👋 Hi I'm Aniket Prabhakar Babar, working as a Design Engineer @Cyient at Mumbai, Maharashtra and currently pursuing Mtech @BITS Pillani under AI & ML Domain.
+**👋 Hi I'm Aniket Prabhakar Babar, working as a Design Engineer @Cyient at Mumbai, Maharashtra and currently pursuing Mtech @BITS Pillani under AI & ML Domain.
 
 Overall having 2+ years of experience in helping clients with their business requirements delivery through data acquisition, analysis, and driving insights, KPI reporting and driving business to a higher level.
 
